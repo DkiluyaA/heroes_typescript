@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  margin: 50px;
+  flex-direction: row;
+}
+
+h1 {
+  text-align: center;
+}
+
+.hero-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 20%;
+}
+
+
